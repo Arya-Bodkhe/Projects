@@ -29,6 +29,7 @@ This project performs Exploratory Data Analysis (EDA) on historical weather data
 
 ## Project Structure
 
+```
 weather-data-analyzer/
 │── data/
 │   └── weather_small.csv
@@ -36,7 +37,7 @@ weather-data-analyzer/
 │   └── weather-data-analyzer.ipynb
 │── requirements.txt
 │── README.md
-
+```
 ## How to Run
 
 1. Install dependencies:
