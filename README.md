@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project performs Exploratory Data Analysis (EDA) on historical weather data to identify patterns in temperature, humidity, and other atmospheric conditions. It demonstrates data preprocessing, visualization, and basic statistical analysis using Python.
+This project performs Exploratory Data Analysis (EDA) on historical weather data to identify patterns in temperature, humidity, and other atmospheric conditions. It demonstrates data preprocessing, visualization, and basic statistical analysis using Python.This project was developed as part of learning data analysis using Python.
 
 ## Dataset
 
